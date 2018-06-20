@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioButtons</string>
+    <string name="Yes">Yes</string>
+    <string name="Maybe">Maybe</string>
+    <string name="No">No</string>
+    <string name="attending">Attending?</string>
+</resources>
